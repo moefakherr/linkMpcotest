@@ -35,7 +35,7 @@
 /* Global Colors */
 :root {
   /* Background Color - This color is applied to the background of the entire website as well as individual sections. */
-  --background-color: #0e0e0e;
+  --background-color: #1e1e1e;
 
   /* Default Color - This is the default color used for the majority of the text content. */
   --default-color: #ffffff;
@@ -454,7 +454,7 @@ h6 {
 
 .footer .footer-top {
   padding: 50px 0;
-  background-color: #0e0e0e;
+  background-color: #1e1e1e;
 }
 
 .footer .footer-about .logo {
